@@ -1,4 +1,4 @@
-## Oii! eu sou Gustavo Stelle Cunha
+## Oii! eu sou o Gustavo Stelle Cunha
 <div align="center">
   <a href="https://github.com/gostavoSC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gostavosc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
