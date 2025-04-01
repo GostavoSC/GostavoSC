@@ -6,7 +6,7 @@
   <img align="center" alt="gustavo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="gustavo-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBohqv660SQcUwfGtmo1cG1lh-zqGwB7da4w&usqp=CAU">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="profile.png">
 </div>
   
   ##
